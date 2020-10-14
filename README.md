@@ -1,7 +1,5 @@
 # Predicting-House-Prices-Using-Neural-Networks
 
-This is a coursera guided project: "Predicting House Prices with Regression using TensorFlow"
-
 This project consists of use of TensorFlow and various libraries in Jupyter Notebook, to analyze house price dataset, to make and train a neural network model of certain architecture, so as to make further predictions. This required basic understanding of Machine Learning and various Python Tools.
 
 Files:
